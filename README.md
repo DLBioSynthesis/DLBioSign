@@ -1,6 +1,6 @@
 # DLBioSyn-Binder V1.0 
 
-(./logo/logo.png)
+./logo/logo.png
 
 This repository provides a binder design pipeline.
 
