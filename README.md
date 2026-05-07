@@ -10,7 +10,4 @@ This repository provides a binder design pipeline.
 
 ## Install
 
-
-## Install
-
 ## Cite
