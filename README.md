@@ -63,7 +63,7 @@ DLBioSyn-Binder/
 # Contribute
 [(Back to top)](#table-of-contents)
 
-* <b>DLBioSign, Shanghai, 200000, China:</b><br/>
+* <b>DLBioSyn, Shanghai, 200000, China:</b><br/>
 
 | Ke-Wei Chen | Jiahe Qiu |
 |:------:|:-------------:|
