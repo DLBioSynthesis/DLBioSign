@@ -5,6 +5,8 @@
 This repository provides a binder design pipeline.
 
 - `binder`
+- `VHH`
+- `scFv`
 
 <!-- Add banner here -->
 
