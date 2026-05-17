@@ -59,13 +59,11 @@ DLBioSyn-Binder/
 
         conda activate DLBioSign_env
         python generate.py
-    
-
 
 # Contribute
 [(Back to top)](#table-of-contents)
 
-* <b>Peking University Shenzhen Graduate School, Shenzhen, 518055, China:</b><br/>
+* <b>DLBioSign, Shanghai, 200000, China:</b><br/>
 
 | Ke-Wei Chen | Jiahe Qiu |
 |:------:|:-------------:|
